@@ -41,6 +41,7 @@ const errorHandler = (err, req, res, next) => {
       console.log('No Error, Good To Go 🚀');
       break;
   }
+  console.error('Error:', err);
 };
 
 module.exports = errorHandler;

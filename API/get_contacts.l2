@@ -1,2 +1,2 @@
-DELETE
-http://localhost:5001/api/contacts/9
+GET
+http://localhost:5001/api/contacts/650ea2b342a9c93f2b5b092f
