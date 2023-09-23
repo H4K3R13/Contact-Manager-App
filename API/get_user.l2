@@ -1,0 +1,7 @@
+POST
+http://localhost:5001/api/users/login
+
+{
+    "email":"sda@ead.com",
+    "password":"hello"
+}
