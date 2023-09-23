@@ -1,7 +1,5 @@
-POST
-http://localhost:5001/api/users/login
+GET
 
-{
-    "email":"sda@ead.com",
-    "password":"hello"
-}
+http://localhost:5001/api/users/current
+
+"Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7InVzZXJuYW1lIjoidGVzdG1hbiIsImVtYWlsIjoic2RhQGVhZC5jb20iLCJpZCI6IjY1MGVjMWMzOGZmNjYwZTU4Y2VkNjA0MiJ9LCJpYXQiOjE2OTU0NjY2OTcsImV4cCI6MTY5NTQ2Njc1N30.wbxU2lPMo5BqsxAT3-c3Vh6NEvk5Mnn34a7AkJGpAS8"
