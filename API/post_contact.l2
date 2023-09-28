@@ -1,8 +1,0 @@
-POST
-http://localhost:5001/api/contacts/
-
-{
-    "name":"Arjun",
-    "email":"arjun@arjun.com",
-    "phone":"1234567890"
-}

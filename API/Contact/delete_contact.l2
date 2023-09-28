@@ -1,0 +1,3 @@
+DELETE
+http://localhost:5001/api/contacts/651509b15323fcdafe7a6660
+"Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7InVzZXJuYW1lIjoiYW1hbCIsImVtYWlsIjoiYW1hbEBraGQuY29tIiwiaWQiOiI2NTE1MDliMTUzMjNmY2RhZmU3YTY2NjAifSwiaWF0IjoxNjk1ODc4ODUzLCJleHAiOjE2OTU4ODI0NTN9.Yh8xeLcy437-6q-S0KwmT-rnoD1RV1MMbZbnrWSjiLo"

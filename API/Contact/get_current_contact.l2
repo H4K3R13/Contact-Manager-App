@@ -1,0 +1,3 @@
+GET
+http://localhost:5001/api/contacts/651311da9bbf3f0ad048e198
+"Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7InVzZXJuYW1lIjoiQXJqdW4iLCJlbWFpbCI6ImFyanVuQGFyanVuLmNvbSIsImlkIjoiNjUxMzE0MzQ5YmJmM2YwYWQwNDhlMTlmIn0sImlhdCI6MTY5NTg3NjI4NCwiZXhwIjoxNjk1ODc5ODg0fQ.JKWVsvgs5XrdBk1tHPUNE__2--MHjZP08k49HsilllI"

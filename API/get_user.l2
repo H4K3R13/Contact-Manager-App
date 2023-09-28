@@ -1,5 +1,0 @@
-GET
-
-http://localhost:5001/api/users/current
-
-"Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7InVzZXJuYW1lIjoiQXJqdW4iLCJlbWFpbCI6ImFyanVuQGFyanVuLmNvbSIsImlkIjoiNjUxMzE0MzQ5YmJmM2YwYWQwNDhlMTlmIn0sImlhdCI6MTY5NTc0OTI0NCwiZXhwIjoxNjk1NzUyODQ0fQ.MvQv_0INdBYLd9sCGosw3Y3ttDxAVdbdHH_emBe9eo8"
